@@ -1,4 +1,16 @@
-const Human = function(firstName, lastName) {
-}
+// const Human = function(firstName, lastName) {
+//     this.firstName = firstName
+//     this.lastName = lastName
+// }
 
-module.exports = Human
+// Human.prototype.completeName = function() {
+//     if (!firstName) {
+//         return this.lastName
+//     }
+//     return this.firstName + " " + this.lastName
+// }
+
+
+
+
+// module.exports = Human
